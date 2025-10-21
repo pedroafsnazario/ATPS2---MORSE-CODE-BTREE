@@ -13,8 +13,8 @@ A regra de distribuição/armazenamento dessa árvore não é a tradicional  men
 Implementar sua estrutura, e suas funções foi relativamente tranquilo (mas trabalhoso), porém tivemos bastante dificuldade de criar as funções de impressão da árvore já que, TBD
 
 ### Main
-- **Implementação**:
-- **Menu (Switch)**:
+- **Implementação**: Implementamos a Árvore-Morse no Main e então fizemos a inserção de vários valores (com seus respectivos código-morse) dentro da estrutura.
+- **Menu (Switch)**: Criamos um menu por meio de um Loop While(true), um Switch case e um Scanner para inputs para executar uma das opções que o User fosse inserir.
 
 ### Btree
 - **Classe Principal**:
