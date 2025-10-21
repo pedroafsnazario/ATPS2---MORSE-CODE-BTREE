@@ -5,11 +5,16 @@ Trabalho de ATPS - Estruturação de Dados - Arvore Binária com lógica de Cód
 - Eduardo Zenere
 - Pedro Antonio
 
-## O Projeto
+## O Projeto 📖
 
-## O Código
+## O Código 👨‍💻
 
 
 ### Main
+- **Implementação**:
+- ** Menu (Switch)**:
 
 ### Btree
+- **Classe Principal**:
+- **Classe Nó**:
+- **TBD**:
