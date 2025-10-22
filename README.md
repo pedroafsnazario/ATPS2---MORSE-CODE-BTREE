@@ -19,6 +19,3 @@ A regra de distribuição/armazenamento dessa árvore não é a tradicional  men
 ### Btree
 - **Classe Principal**: A base para árvore, contendo seu construtor e funções para inserção, codificação, decodificação e exibição da árvore.
 - **Classe Nó**: A class nó necessária para a base da Árvore, contendo seus atributos e seu construtor
-
-### Observação 👁️
-TBD
